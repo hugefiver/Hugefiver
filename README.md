@@ -5,8 +5,9 @@
 - 一般叫`大五`，全网统一英文ID`Hugefiver`
 - 个人网站：<https://rurilove.moe> （不一定在线
 - 联系邮箱：`i [AT] iruri.moe` 或 `hugefiver [AT] outlook.com`
-- 英语水平有限。阅读问题不大，听说勉强差点不行，写还是算了。
+- 英语水平有限。阅读问题不大。
 - Tencent Hater
+- Worse是真的Better：Golang；优雅是真的优雅：Haskell；好用是真的好用：Python。
 
 ## Programming
 <details>
