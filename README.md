@@ -9,6 +9,9 @@
 - Tencent Hater
 - Worse是真的Better：Golang；优雅是真的优雅：Haskell；好用是真的好用：Python。
 
+![Account Stat](https://gh-stat.vercel.app/api?username=hugefiver&show_icons=true&theme=graywhite&locale=cn)
+![Language Preference](https://gh-stat.vercel.app/api/top-langs/?username=hugefiver&layout=compact&theme=graywhite&locale=cn)
+
 ## Programming
 <details>
 
