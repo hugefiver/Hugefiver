@@ -10,7 +10,7 @@
 - Worse是真的Better：Golang；优雅是真的优雅：Haskell；好用是真的好用：Python。
 
 ![Account Stat](https://gh-stat.vercel.app/api?username=hugefiver&show_icons=true&hide_title=true&theme=graywhite&cache_seconds=1800)
-![Language Preference](https://gh-stat.vercel.app/api/top-langs/?username=hugefiver&layout=compact&langs_count=9&theme=graywhite&hide=css,html, javascript&cache_seconds=1800)
+![Language Preference](https://gh-stat.vercel.app/api/top-langs/?username=hugefiver&layout=compact&langs_count=9&theme=graywhite&hide=css,html,javascript&cache_seconds=1800)
 
 ## Programming
 <details>
