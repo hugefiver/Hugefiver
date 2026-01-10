@@ -1,8 +1,8 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: 
-    - cron: "0 20 * * *"
+  # schedule: 
+  #   - cron: "0 20 * * *"
   workflow_dispatch:
   # push: {branches: ["master", "main"]}
 jobs:
