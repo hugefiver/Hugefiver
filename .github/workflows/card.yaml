@@ -1,0 +1,24 @@
+name: Update Profile Card
+on:
+  # schedule:
+  #   - cron: '0 0 * * 1'  # Weekly
+  workflow_dispatch:
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: hugefiver/logit@master
+        with:
+          username: ${{ github.actor }}
+          command: multi
+          periods: week,month,year
+          include-contributed: 'true'
+          output: multi-card.svg
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'chore: update profile card'
+          file_pattern: 'multi-card.svg'
