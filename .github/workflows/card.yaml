@@ -16,6 +16,7 @@ jobs:
           command: multi
           periods: week,month,year
           include-contributed: 'true'
+          short: true
           output: multi-card.svg
 
       - uses: stefanzweifel/git-auto-commit-action@v7
