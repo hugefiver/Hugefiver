@@ -13,6 +13,7 @@ jobs:
       - uses: hugefiver/logit@master
         with:
           username: ${{ github.actor }}
+          token: ${{secrets.GH_PAT}}
           command: multi
           periods: week,month,year
           include-contributed: 'true'
