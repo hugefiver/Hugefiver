@@ -17,6 +17,7 @@ jobs:
           command: multi
           periods: week,month,year
           include-contributed: 'true'
+          include-private: 'true'
           short: true
           output: multi-card.svg
 
