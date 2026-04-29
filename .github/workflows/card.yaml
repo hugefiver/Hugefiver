@@ -20,6 +20,7 @@ jobs:
           include-private: 'true'
           short: true
           output: multi-card.svg
+          exclude-lang: java,bash,shell,markdown,javascript,css,sass,html
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
