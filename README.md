@@ -10,7 +10,7 @@
 
 ![Recent](./multi-card.svg)
 ![Account Stat](https://gh-stat-card.vercel.app/api?username=hugefiver&show=reviews,prs_merged_percentage,commits&rank_icon=default&include_all_commits=false&count_private=true&show_icons=true&hide_title=true&theme=graywhite&cache_seconds=1800)
-![Language Preference](https://gh-stat-card.vercel.app/api/top-langs/?username=hugefiver&count_private=true&layout=compact&langs_count=10&theme=graywhite&hide=php,javascript,css,scss,html,cmake,makefile,shell,dockerfile&exclude=yilia,myhexoblog,hf_gitment&cache_seconds=1800)
+![Language Preference](https://gh-stat-card.vercel.app/api/top-langs/?username=hugefiver&count_private=true&layout=compact&langs_count=10&theme=graywhite&hide=php,javascript,css,scss,html,cmake,makefile,shell,dockerfile&exclude=yilia,myhexoblog,hf_gitment&cache_seconds=1800&exclude_repo=del2d)
 
 
 
