@@ -67,7 +67,7 @@
       <path d="M10.5 7.75a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm1.43.75a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 1 1 0-1.5h3.32a4.001 4.001 0 0 1 7.86 0h3.32a.75.75 0 1 1 0 1.5h-3.32Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Commits:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-val">46</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-val">36</text>
   </g>
   
   <g transform="translate(35, 88)">
@@ -75,7 +75,7 @@
       <path d="M7.75 2a.75.75 0 0 1 .75.75V7h4.25a.75.75 0 0 1 0 1.5H8.5v4.25a.75.75 0 0 1-1.5 0V8.5H2.75a.75.75 0 0 1 0-1.5H7V2.75A.75.75 0 0 1 7.75 2Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Added:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+67,107</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+31,371</text>
   </g>
   
   <g transform="translate(35, 112)">
@@ -83,7 +83,7 @@
       <path d="M2.75 7.75h10.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Deleted:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-del">-7,229</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-del">-6,528</text>
   </g>
   
   <g transform="translate(35, 136)">
@@ -91,7 +91,7 @@
       <path d="M8.235.044a.666.666 0 0 0-.47 0l-7.07 2.886a.333.333 0 0 0 .07.633l2.902.875-.404 3.152a.333.333 0 0 0 .467.343L8 5.869l4.27 2.064a.333.333 0 0 0 .467-.343l-.404-3.152 2.902-.875a.333.333 0 0 0 .07-.633Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Net Adds:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+59,884</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+25,722</text>
   </g>
   
 
@@ -99,26 +99,26 @@
   <rect x="35" y="160" width="180" height="10" rx="5" class="lang-bar-bg"/>
   <g clip-path="url(#bar-clip-0)">
     
-    <rect x="35.0" y="160" width="98.23595154007778" height="10" fill="#3178c6"/>
+    <rect x="35.0" y="160" width="101.90303146217845" height="10" fill="#3178c6"/>
     
-    <rect x="133.2359515400778" y="160" width="65.48526979301714" height="10" fill="#dea584"/>
+    <rect x="136.90303146217843" y="160" width="59.18523477096682" height="10" fill="#dea584"/>
     
-    <rect x="198.72122133309495" y="160" width="9.88421476150029" height="10" fill="#3572A5"/>
+    <rect x="196.08826623314525" y="160" width="10.05833413024768" height="10" fill="#3572A5"/>
     
   </g>
 
   
   <circle cx="40" cy="180" r="4" fill="#3178c6"/>
   <text x="52" y="184" class="lang-name">TypeScript</text>
-  <text x="145" y="184" class="lang-pct">54.6%</text>
+  <text x="145" y="184" class="lang-pct">56.6%</text>
   
   <circle cx="40" cy="200" r="4" fill="#dea584"/>
   <text x="52" y="204" class="lang-name">Rust</text>
-  <text x="145" y="204" class="lang-pct">36.4%</text>
+  <text x="145" y="204" class="lang-pct">32.9%</text>
   
   <circle cx="40" cy="220" r="4" fill="#3572A5"/>
   <text x="52" y="224" class="lang-name">Python</text>
-  <text x="145" y="224" class="lang-pct">5.5%</text>
+  <text x="145" y="224" class="lang-pct">5.6%</text>
   
   
   
@@ -142,7 +142,7 @@
       <path d="M10.5 7.75a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm1.43.75a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 1 1 0-1.5h3.32a4.001 4.001 0 0 1 7.86 0h3.32a.75.75 0 1 1 0 1.5h-3.32Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Commits:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-val">111</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-val">115</text>
   </g>
   
   <g transform="translate(235, 88)">
@@ -150,7 +150,7 @@
       <path d="M7.75 2a.75.75 0 0 1 .75.75V7h4.25a.75.75 0 0 1 0 1.5H8.5v4.25a.75.75 0 0 1-1.5 0V8.5H2.75a.75.75 0 0 1 0-1.5H7V2.75A.75.75 0 0 1 7.75 2Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Added:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+146,199</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+150,097</text>
   </g>
   
   <g transform="translate(235, 112)">
@@ -158,7 +158,7 @@
       <path d="M2.75 7.75h10.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Deleted:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-del">-23,943</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-del">-26,347</text>
   </g>
   
   <g transform="translate(235, 136)">
@@ -166,7 +166,7 @@
       <path d="M8.235.044a.666.666 0 0 0-.47 0l-7.07 2.886a.333.333 0 0 0 .07.633l2.902.875-.404 3.152a.333.333 0 0 0 .467.343L8 5.869l4.27 2.064a.333.333 0 0 0 .467-.343l-.404-3.152 2.902-.875a.333.333 0 0 0 .07-.633Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Net Adds:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+129,185</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+131,548</text>
   </g>
   
 
@@ -174,26 +174,26 @@
   <rect x="235" y="160" width="180" height="10" rx="5" class="lang-bar-bg"/>
   <g clip-path="url(#bar-clip-1)">
     
-    <rect x="235.0" y="160" width="104.43765005232595" height="10" fill="#dea584"/>
+    <rect x="235.0" y="160" width="101.8525353604669" height="10" fill="#dea584"/>
     
-    <rect x="339.4376500523259" y="160" width="47.239858001764716" height="10" fill="#3178c6"/>
+    <rect x="336.8525353604669" y="160" width="50.193541509823646" height="10" fill="#3178c6"/>
     
-    <rect x="386.67750805409065" y="160" width="14.409948084460222" height="10" fill="#00ADD8"/>
+    <rect x="387.04607687029056" y="160" width="14.027328993917266" height="10" fill="#00ADD8"/>
     
   </g>
 
   
   <circle cx="240" cy="180" r="4" fill="#dea584"/>
   <text x="252" y="184" class="lang-name">Rust</text>
-  <text x="345" y="184" class="lang-pct">58.0%</text>
+  <text x="345" y="184" class="lang-pct">56.6%</text>
   
   <circle cx="240" cy="200" r="4" fill="#3178c6"/>
   <text x="252" y="204" class="lang-name">TypeScript</text>
-  <text x="345" y="204" class="lang-pct">26.2%</text>
+  <text x="345" y="204" class="lang-pct">27.9%</text>
   
   <circle cx="240" cy="220" r="4" fill="#00ADD8"/>
   <text x="252" y="224" class="lang-name">Go</text>
-  <text x="345" y="224" class="lang-pct">8.0%</text>
+  <text x="345" y="224" class="lang-pct">7.8%</text>
   
   
   
@@ -217,7 +217,7 @@
       <path d="M10.5 7.75a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm1.43.75a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 1 1 0-1.5h3.32a4.001 4.001 0 0 1 7.86 0h3.32a.75.75 0 1 1 0 1.5h-3.32Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Commits:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-val">2,499</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-val">2,506</text>
   </g>
   
   <g transform="translate(435, 88)">
@@ -225,7 +225,7 @@
       <path d="M7.75 2a.75.75 0 0 1 .75.75V7h4.25a.75.75 0 0 1 0 1.5H8.5v4.25a.75.75 0 0 1-1.5 0V8.5H2.75a.75.75 0 0 1 0-1.5H7V2.75A.75.75 0 0 1 7.75 2Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Added:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+7,731,099</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+7,728,441</text>
   </g>
   
   <g transform="translate(435, 112)">
@@ -233,7 +233,7 @@
       <path d="M2.75 7.75h10.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Deleted:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-del">-293,329</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-del">-294,870</text>
   </g>
   
   <g transform="translate(435, 136)">
@@ -241,7 +241,7 @@
       <path d="M8.235.044a.666.666 0 0 0-.47 0l-7.07 2.886a.333.333 0 0 0 .07.633l2.902.875-.404 3.152a.333.333 0 0 0 .467.343L8 5.869l4.27 2.064a.333.333 0 0 0 .467-.343l-.404-3.152 2.902-.875a.333.333 0 0 0 .07-.633Z"></path>
     </svg>
     <text x="22" y="0" dominant-baseline="central" class="stat-label">Net Adds:</text>
-    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+7,515,869</text>
+    <text x="180" y="0" dominant-baseline="central" text-anchor="end" class="stat-add">+7,512,319</text>
   </g>
   
 
@@ -249,11 +249,11 @@
   <rect x="435" y="160" width="180" height="10" rx="5" class="lang-bar-bg"/>
   <g clip-path="url(#bar-clip-2)">
     
-    <rect x="435.0" y="160" width="104.38047941178867" height="10" fill="#dea584"/>
+    <rect x="435.0" y="160" width="104.41141751615883" height="10" fill="#dea584"/>
     
-    <rect x="539.3804794117887" y="160" width="49.98995356287638" height="10" fill="#858585"/>
+    <rect x="539.4114175161588" y="160" width="50.00623799806455" height="10" fill="#858585"/>
     
-    <rect x="589.370432974665" y="160" width="10.169276062821082" height="10" fill="#3178c6"/>
+    <rect x="589.4176555142234" y="160" width="10.130617546281325" height="10" fill="#3178c6"/>
     
   </g>
 
